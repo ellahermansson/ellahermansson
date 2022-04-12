@@ -28,3 +28,6 @@ With more to come!
 
 ## 📫 Contact me
 E-mail: elhe2106@student.miun.se
+
+## 💡 My GitHub profile
+https://github.com/ellahermansson 
