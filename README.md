@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 😄 About me
-My name is Ella Hermansson. I am currently a student at Mid Sweden University. I will graduate June 2023 and my degree will be Higher Education Diploma with specialization in Computer Engineering.
+My name is Ella Hermansson. I am currently a student at Mid Sweden University. I will graduate June 2024 and my degree will be Higher Education Diploma with specialization in Computer Engineering.
 
 ## 💬 Languages
 * HTML
